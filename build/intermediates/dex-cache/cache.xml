@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-f7cc748da5511fdc02efb13414c108816c3d448d.jar" />
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-3ee6a25094f326baf4509191abaa3744c08fba9f.jar" />
     </item>
     <item
-        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.twotoasters.jazzylistview\library-recyclerview\1.2.1\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-4bf543fa537f26c9c372b810befb200e50b5dcc1.jar" />
+        sha1="00f42ab7ae9f8747f735bba2cc61c3fdaf7133be">
+        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-25ace7b30bd22a91611aff34eb95f1886f22636a.jar" />
     </item>
     <item
-        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jar="C:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
-        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-0750ccfb09eae4d375b82b827caeaf3b40d59b83.jar" />
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0-eaf302e471b4fbc94a5b9706e44a8372fac10cb4.jar" />
     </item>
     <item
         jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
@@ -37,11 +37,11 @@
         <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-d4c907535207e11f7460aea9c8b6f8387603f4bd.jar" />
     </item>
     <item
-        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.twotoasters.jazzylistview\library-recyclerview\1.2.1\jars\classes.jar"
+        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.twotoasters.jazzylistview\library\1.2.1\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="00f42ab7ae9f8747f735bba2cc61c3fdaf7133be">
-        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-25ace7b30bd22a91611aff34eb95f1886f22636a.jar" />
+        sha1="451e07e95c9f662049ab14915bd1c8114e8acc2b">
+        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-7196100365e1aa90088103f0245b9b3d06b19922.jar" />
     </item>
     <item
         jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
@@ -51,25 +51,25 @@
         <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-aab4b0be75ec3f0135a5dac77e1324fed74bd1cf.jar" />
     </item>
     <item
-        jar="C:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0-eaf302e471b4fbc94a5b9706e44a8372fac10cb4.jar" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-4bf543fa537f26c9c372b810befb200e50b5dcc1.jar" />
     </item>
     <item
-        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.twotoasters.jazzylistview\library\1.2.1\jars\classes.jar"
+        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="451e07e95c9f662049ab14915bd1c8114e8acc2b">
-        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-7196100365e1aa90088103f0245b9b3d06b19922.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-f7cc748da5511fdc02efb13414c108816c3d448d.jar" />
     </item>
     <item
-        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jar="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-3ee6a25094f326baf4509191abaa3744c08fba9f.jar" />
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="G:\studio_project_21_10_2015\4 Qul Hindi\4 Qul\app\build\intermediates\pre-dexed\release\classes-0750ccfb09eae4d375b82b827caeaf3b40d59b83.jar" />
     </item>
 
 </items>

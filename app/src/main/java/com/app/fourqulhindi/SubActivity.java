@@ -240,7 +240,15 @@ public class SubActivity extends ActionBarActivity {
         else  playAudio.setImageResource(R.drawable.audio_play);
     }
 
-
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        if(isPlaying){
+            isPlaying = false;
+            mediaPlayer.stop();
+            changImage();
+        }
+    }
 
 
     public void displayInterstitial() {
